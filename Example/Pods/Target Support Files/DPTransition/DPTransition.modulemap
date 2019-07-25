@@ -1,0 +1,6 @@
+framework module DPTransition {
+  umbrella header "DPTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}

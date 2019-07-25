@@ -1,0 +1,22 @@
+{
+  "name": "DPTransition",
+  "version": "0.1.0",
+  "summary": "A short description of DPTransition.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dave-pang/DPTransition",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dave-pang": "dave.me@kakaomobility.com"
+  },
+  "source": {
+    "git": "https://github.com/dave-pang/DPTransition.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DPTransition/Classes/**/*"
+}

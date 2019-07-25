@@ -1,0 +1,12 @@
+use_frameworks!
+platform :ios, '12.0'
+
+target 'DPTransition_Example' do
+  pod 'DPTransition', :path => '../'
+
+  target 'DPTransition_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
